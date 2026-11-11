@@ -1,0 +1,148 @@
+no,nama,judul,kategori,status,sudah_di_aplikasikan,objek_pengaplikasian,sudah_di_komersialisasikan,objek_komersialisasi,flag_aplikasi_tanpa_objek
+1,WARIH MAHARANI,Metode Prediksi Tipe Kepribadian Big Five Berdasarkan Unggahan di Mikroblog Twitter,PATEN,Sertifikat Selesai,,,,,False
+2,WARIH MAHARANI,Metode Perhitungan Rating Produk Berskala 5 Di Situs Web Berdasarkan Personalisasi Fitur Produk,PATEN,Sertifikat Selesai,,,,,False
+3,MAMAN ABDUROHMAN,Alat untuk Melakukan Presensi Berbasis Pengenalan Wajah yang dapat Dikendalikan dari Jarak Jauh,PATEN,Sertifikat Selesai,,,,,False
+4,"NUNGKI SELVIANDRO, DANA SULISTIYO KUSUMO",FeelsQuest,DESAIN INDUSTRI,Sertifikat Selesai,False,,True,Feelsbox di https://feelsbox.site,False
+5,ANDY MAULANA YUSUF,Desain Antarmuka Aplikasi Web “Tel-u Class” dengan Generative AI sebagai Media Pembelajaran Kelas Virtual,DESAIN INDUSTRI,Sertifikat Selesai,False,,True,- Universitas | - Sekolah | - Forum Pembelajaran | - LMS dan bidang edukasi lainnya,False
+6,VERONIKHA EFFENDY,DESAIN UI/UX SWARANA,DESAIN INDUSTRI,Sertifikat Selesai,False,,,,False
+7,"VERONIKHA EFFENDY, FADIL AL AFGANI, MIRA KANIA SABARIAH, ATI SUCI DIAN MARTHA",PENGANTAR REKAYASA PERANGKAT LUNAK,HAK CIPTA,Sertifikat Selesai,False,,,,False
+8,"MIFTAHUL ADNAN RASYID, FAUZAN RAMADHAN",BASIS DATA RANTAI PERIWAYATAN HADITS SHAHIH BUKHARI UNTUK ANALISIS PENCOCOKAN NAMA,HAK CIPTA,Sertifikat Selesai,False,,,,False
+9,"MONTERICO ADRIAN, ARIO HARRY PRAYOGO, NURJAYANTI",APLIKASI MY TEL-U MOBILE VERSI 2.0,HAK CIPTA,Sertifikat Selesai,True,Pegawai dan Dosen,True,Perguruan Tinggi Lainnya,False
+10,RAHMAT YASIRANDI,TAS PUNDAK ECO-CYCLE MINIMALIST,DESAIN INDUSTRI,Pengajuan DJKI,False,,,,False
+11,RAHMAT YASIRANDI,TAS PUNDAK ETHIC BOHO,DESAIN INDUSTRI,Sertifikat Selesai,True,,,,True
+12,RAHMAT YASIRANDI,TAS JINJING ECO FROLIC,DESAIN INDUSTRI,Sertifikat Selesai,False,,,,False
+13,BAYU ERFIANTO,"LITERASI KEBENCANAAN: HIDROLOGI, KONSEP ALIRAN AIR, PENYEBAB BANJIR DAN DINAMIKA LINGKUNGAN",HAK CIPTA,Sertifikat Selesai,True,,,,True
+14,NURJAYANTI,APLIKASI OUTCOME BASED EDUCATION (OBE) RENCANA PEMBELAJARAN SEMESTER (RPS),HAK CIPTA,Sertifikat Selesai,True,"Kaprodi, Koordinator Mata Kuliah, dan Dosen Telkom University",True,Perguruan Tinggi Lainnya,False
+15,"NIKEN DWI WAHYU CAHYANI, FAZMAH ARIF YULIANTO",METODE PENGHENTIAN PUTARAN HARD DISK PADA SISTEM HARDWARE WRITE BLOCKER,PATEN,Pengajuan DJKI,,,,,False
+16,MOCH. ARIF BIJAKSANA,APLIKASI PREDIKSI SAHAM AAPL,HAK CIPTA,Sertifikat Selesai,False,,,,False
+17,DESI NURNANINGSIH,Aplikasi ExplainMedQA,HAK CIPTA,Sertifikat Selesai,,,,,False
+18,"ANDY MAULANA YUSUF, DYTHA ANANDA WIDHIARSO, KHALIS SOFI",Visual Analytical Tool untuk Wawasan Pertanian Berbasis Data,HAK CIPTA,Sertifikat Selesai,,,,,False
+19,WIKKY FAWWAZ AL MAKI,Pendeteksi Kondisi Paru-Paru Berbasis Faster RCNN dan MobileNetV3,HAK CIPTA,Sertifikat Selesai,,,,,False
+20,"ANDY MAULANA YUSUF, DYTHA ANANDA WIDHIARSO, BAGAS WIBOWO, KHALIS SOFI",Aplikasi Klasifikasi Objek Astronomi Berbasis Machine Learning,HAK CIPTA,Sertifikat Selesai,False,,,,False
+21,DESI NURNANINGSIH,Pengembangan Solusi Berbasis PWA untuk Keterlibatan Orang Tua pada Aktifitas Siswa,HAK CIPTA,Sertifikat Selesai,True,,,,True
+22,"RIFKI WIJAYA, GAMMA KOSALA, HILDA FAHLENA, MUHAMMAD FARIS FATHONI",APLIKASI MOBILE BERBASIS ANDROID UNTUK PELAPORAN AKTIVITAS GENG MOTOR DENGAN DETEKSI ARTIFICIAL INTELLIGENCE,HAK CIPTA,Sertifikat Selesai,True,,,,True
+23,"INDRA LUKMANA SARDI, ISMAN KURNIAWAN",SISTEM INFORMASI PEMERIKSAAN KANKER SERVIKS,HAK CIPTA,Sertifikat Selesai,False,,,,False
+24,"MUHAMAD IRSAN, FARISYA SETIADI, FAZMAH ARIF YULIANTO, RIO GUNTUR UTOMO",INTEGRASI SISTEM PEMANTAUAN PENGEMUDI BERBASIS AI DAN SENSOR LIDAR UNTUK DETEKSI DINI RISIKO KECELAKAAN,HAK CIPTA,Sertifikat Selesai,False,,,,False
+25,MUHAMMAD AL MAKKY,METODE MEDIA ASISTIF REALITAS VIRTUAL UNTUK KOMUNIKASI KELUARGA ANAK DIFABEL,PATEN,Pengajuan DJKI,False,,,,False
+26,"INDRA LUKMANA SARDI, ISMAN KURNIAWAN",LOGO NETIVA.ID,MEREK,Sertifikat Selesai,False,,,,False
+27,MUHAMAD IRSAN,Aplikasi backwash Filter Air berbasis IoT,HAK CIPTA,Sertifikat Selesai,,,,,False
+28,"MAMAN ABDUROHMAN, AJI GAUTAMA PUTRADA, DONNI RICHASDY, SIDIK PRABOWO",AIOT-TRACKEDGE: SISTEM PELACAKAN PENGIRIMAN BARANG BERBASIS ARTIFICIAL INTELLIGENCE (AI) DAN EDGE COMPUTING,PATEN,Pengajuan DJKI,False,,,,False
+29,"ANDY MAULANA YUSUF, BAGAS WIBOWO, SABRINA ADINDA SARI, HILYA TSANIYA ISMET",Sistem Automasi Segmentasi Nasabah Bank Berbasis Analisis Data Demografi dan Finansial,HAK CIPTA,Sertifikat Selesai,False,,,,False
+30,NIKEN DWI WAHYU CAHYANI,Self-Assessment Digital Forensic Readiness for Incident Data Breach,HAK CIPTA,Sertifikat Selesai,False,,False,PRokade,False
+31,"FADIL AL AFGANI, MIRA KANIA SABARIAH, GAMMA KOSALA, ANNISA RAHMAH MUFLIHAH",SIMAPEL (Sistem Manajemen Pembelajaran),HAK CIPTA,Sertifikat Selesai,False,,True,Sekolah,False
+32,"FADIL AL AFGANI, SRI WIDOWATI, MIRA KANIA SABARIAH",SiNESA (Sistem Nilai dan Evaluasi Siswa Aktif),HAK CIPTA,Sertifikat Selesai,False,,True,Sekolah,False
+33,"SATRIA MANDALA, ENDRO ARIYANTO",KMS Digital Desa Lebakwangi,HAK CIPTA,Sertifikat Selesai,False,Desa,False,,False
+34,"DENI SAEPUDIN, DIDIT ADYTIA, DEDE TARWIDI",Aplikasi Pengolahan Data Lansia,HAK CIPTA,Sertifikat Selesai,True,Tim Penggerak PKK Kelurahan Cipamokolan Kota Bandung,False,,False
+35,"AAZ MUHAMMAD HAFIDZ AZIS, LIDYA NINGSIH",Website Aplikasi Digital Marketing dan GIS pada Koperasi Anugerah Batik Ciwaringin,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+36,"NOVIAN ANGGIS SUWASTIKA, MUHAMMAD AL MAKKY, ERWID MUSTHOFA JADIED",Sistem Manajemen Dokumen untuk Sekolah,HAK CIPTA,Sertifikat Selesai,False,,True,"Sistem Manajemen Dokumen (Document Management System/DMS) ini berpeluang dikomersialkan dan dimanfaatkan oleh institusi pendidikan, lembaga pelatihan, organisasi publik, serta mitra industri yang membutuhkan pengelolaan dokumen penting dan legal secara terstruktur, aman, dan terdokumentasi dengan baik.",False
+37,"DIDIT ADYTIA, DENI SAEPUDIN, DEDE TARWIDI",SIKESA (Sistem Indeks Kebahagiaan Siswa),HAK CIPTA,Sertifikat Selesai,True,SMP Ar Rafi' Drajat Bandung,True,"Aplikasi ini berpotensi untuk digunakan pada SMP lain sebagai sebuah aplikasi untuk mengukur dan memantau tingkat kebahagiaan serta kesejahteraan psikologis siswa SMP secara berkala. Aplikasi ini menggunakan survei harian dan survei mingguan untuk merekam kondisi emosional, motivasi belajar, tingkat stres, serta lingkungan sosial siswa.",False
+38,"PRASTI EKO YUNANTO, ARI MOESRIAMI BARMAWI, FAIDHIL NUGRAH RAMADHAN AHMAD",APLIKASI SSO DAN APLIKASI AGENDA KEGIATAN PESANTREN AL-BAHJAH,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+39,"SHINTA YULIA PUSPITASARI, MONTERICO ADRIAN",Antarmuka Modul Lowongan Magang dan Approval,DESAIN INDUSTRI,Pengajuan DJKI,False,"Fakultas Ilmu Terapan, Universitas Telkom",True,Universitas Lain,False
+40,"ARI MOESRIAMI BARMAWI, PRASTI EKO YUNANTO, ABDULLAH HANIFAN",APLIKASI KEPEGAWAIAN AL-BAHJAH,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+41,"SATRIA MANDALA, VERA SURYANI, ERWID MUSTHOFA JADIED",Belajar Mabrur V.2.0,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+42,VERA SURYANI,Adaptive Reconnaissance Detection - IDS (ARD-IDS) Sistem Pendeteksi Aktivitas Reconnaissance Berbasis Anomali,HAK CIPTA,Sertifikat Selesai,True,Perum PERURI,False,,False
+43,"ROSA RESKA RISKIANA, DANA SULISTIYO KUSUMO",FlowForge,HAK CIPTA,Sertifikat Selesai,False,,True,"Tools ini dapat digunakan oleh perusahaan yang menggunakan BPMN dalam mendeskripsikan business processnya. Industri hanya perlu memasukkan file BPMN ke dalam tools ini, lalu mereka mendapatkan User Story dan juga test case yang sudah dalam format Gherkin sehingga memudahkan untuk mereka melakukan automation testing.",False
+44,DESI NURNANINGSIH,APLIKASI PREDIKSI NPM SEKURITAS,HAK CIPTA,Sertifikat Selesai,False,,,,False
+45,"ARIO HARRY PRAYOGO, VILLY SATRIA PRADITHA",Aplikasi Dashboard Analytics Mesin Sawit,HAK CIPTA,Sertifikat Selesai,True,PKS Pagar Merbau PTPN IV Regional II KSO PalmCo,True,"Website ini memiliki potensi komersialisasi yang sangat tinggi dengan target pasar utama segmen B2B (Business-to-Business), khususnya ratusan Pabrik Kelapa Sawit (PKS) di Indonesia yang membutuhkan modernisasi sistem dengan biaya terjangkau. Nilai jual utamanya terletak pada kemampuan pemantauan real-time yang dapat mencegah kerusakan mesin fatal serta meminimalisir kerugian akibat henti produksi (downtime).",False
+46,YUDHISTIRA NUGRAHA,PDP Awareness Scoring System (PASS-PDP),HAK CIPTA,Sertifikat Selesai,False,,False,,False
+47,WIKKY FAWWAZ AL MAKI,Aplikasi Home Face Guard,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+48,WIKKY FAWWAZ AL MAKI,Aplikasi Deepfake Image Detector,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+49,"SATRIA MANDALA, NIKEN DWI WAHYU CAHYANI, CANTIKA AURELYA PUTRI CAHYANTO",Deteksi Aritmia EKG Menggunakan Model Berbasis Transformer: Autoencoder,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+50,RANA ZAINI FATHIYANA,Modul Website Desa Galuga,HAK CIPTA,Sertifikat Selesai,False,,,,False
+51,WIKKY FAWWAZ AL MAKI,Aplikasi Infinite Storage Glitch,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+52,WIKKY FAWWAZ AL MAKI,Aplikasi Animal AR,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+53,"FEBRI DAWANI, RAHMAT YASIRANDI, ISA MULIA INSAN","Aplikasi Asesmen Karakter Harmony, Excellence, dan Integrity pada Mahasiswa",HAK CIPTA,Sertifikat Selesai,False,,True,Telkom University,False
+54,"BAGAS WIBOWO, ANDY MAULANA YUSUF, THOFIK NUGROHO, SABRINA ADINDA SARI",Exploratory Vehicle Market Visualization,HAK CIPTA,Sertifikat Selesai,False,,True,,False
+55,"NUNGKI SELVIANDRO, GIA SEPTIANA WULANDARI, FAUZAN FIRDAUS, DONNI RICHASDY",WEB PEMAKAMAN YAYASAN TIMBANGANTEN BANDUNG,HAK CIPTA,Sertifikat Selesai,True,Yayasan Timbanganten Bandung,False,,False
+56,WIKKY FAWWAZ AL MAKI,Aplikasi Sigedung,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+57,WIKKY FAWWAZ AL MAKI,Aplikasi Web Edukatif,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+58,ARIO HARRY PRAYOGO,Aplikasi Admisi versi 5.0,HAK CIPTA,Sertifikat Selesai,True,Universitas Telkom,True,Universitas Lain,False
+59,ARIO HARRY PRAYOGO,Aplikasi Admisi versi 4.0,HAK CIPTA,Sertifikat Selesai,True,Universitas Telkom,True,Universitas Lain,False
+60,ARIO HARRY PRAYOGO,Aplikasi Admisi versi 5.2,HAK CIPTA,Sertifikat Selesai,True,Universitas Telkom,True,Universitas Lain,False
+61,ARIO HARRY PRAYOGO,Aplikasi Admisi versi 5.1,HAK CIPTA,Sertifikat Selesai,True,Universitas Telkom,True,Universitas Lain,False
+62,"NIKEN DWI WAHYU CAHYANI, KUSUMA ADI ACHMAD",Web Security and Personal Data Protection Maturity,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+63,ARIO HARRY PRAYOGO,Aplikasi digi-TRAIN versi 1.2,HAK CIPTA,Sertifikat Selesai,True,Universitas Telkom,True,Universitas Lain,False
+64,ARIO HARRY PRAYOGO,Aplikasi digi-TRAIN versi 1.1,HAK CIPTA,Sertifikat Selesai,True,Universitas Telkom,True,Universitas Lain,False
+65,ARIO HARRY PRAYOGO,Aplikasi digi-TRAIN versi 2.0,HAK CIPTA,Sertifikat Selesai,True,Universitas Telkom,True,Universitas Lain,False
+66,ARIO HARRY PRAYOGO,Aplikasi Permit Services versi 2.0,HAK CIPTA,Sertifikat Selesai,True,Universitas Telkom,True,Universitas Lain,False
+67,ARIO HARRY PRAYOGO,Aplikasi Registrasi Mahasiswa Baru Internasional versi 2.0,HAK CIPTA,Sertifikat Selesai,True,Universitas Telkom,True,Universitas Lain,False
+68,"ADE ROMADHONY, YUDI PRAYUDI",Aplikasi Waskita – Radical Content Classification System,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+69,DESI NURNANINGSIH,IndoSpamDetect,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+70,ARIO HARRY PRAYOGO,Aplikasi BaSO versi 1.4,HAK CIPTA,Sertifikat Selesai,True,Universitas Telkom,True,Universitas Lain,False
+71,ARIO HARRY PRAYOGO,Aplikasi BaSO (Pembuatan Surat Online) versi 1.3,HAK CIPTA,Sertifikat Selesai,True,Universitas Telkom,True,Universitas Lain,False
+72,ARIO HARRY PRAYOGO,Aplikasi BaSO versi 1.5,HAK CIPTA,Sertifikat Selesai,True,Universitas Telkom,True,Universitas Lain,False
+73,KHALIS SOFI,e-Purchasing Consumable,HAK CIPTA,Sertifikat Selesai,False,,True,"Departemen Purchasing di semua jenis industri, terutama industri manufaktur.",False
+74,KHALIS SOFI,Guidance layout project NSCIS (web design),HAK CIPTA,Sertifikat Selesai,False,,True,"Dapat diimplementasikan di institusi pendidikan, buku ini digunakan sebagai bahan ajar.",False
+75,KHALIS SOFI,"Meningkatkan skill pemrograman web : HTML, CSS, PHP-MySqli, PHP-OOP, Bootstrap framework, dan MVC-Yii2, framework",HAK CIPTA,Sertifikat Selesai,False,,True,"Instansi pendidikan, buku digunakan sebagai bahan ajar.",False
+76,SATRIA MANDALA,DailyBloom: Platform Digital Gratitude Journal,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+77,SATRIA MANDALA,Melanotect: Aplikasi Cerdas Deteksi Kanker Kulit Berbasis Website,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+78,SATRIA MANDALA,Agora: Platform Komunitas Berbasis Website untuk Berbagi Informasi dalam Bentuk Catatan Digital,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+79,SATRIA MANDALA,MUE: Aplikasi Web untuk Pelacakan Mood dan Journaling Kesehatan Mental,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+80,SATRIA MANDALA,Internify: Aplikasi Manajemen Pendaftaran Magang Terintegrasi,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+81,SATRIA MANDALA,Landing Page Humic Prototyping,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+82,SATRIA MANDALA,Katalog Product Humic,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+83,SATRIA MANDALA,Humic Conference System,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+84,"NUR GHANIAVIYANTO RAMADHAN, KEMAS MUSLIM LHAKSMANA, NUNGKI SELVIANDRO, DONNI RICHASDY",AI4WellBeing,MEREK,Pengajuan DJKI,True,Universitas Telkom,False,,False
+85,"RIO GUNTUR UTOMO, MONTERICO ADRIAN, ARIO HARRY PRAYOGO",Aplikasi SOANG versi 3.0,HAK CIPTA,Sertifikat Selesai,True,Universitas Telkom,True,Universitas Lain,False
+86,ARIO HARRY PRAYOGO,Aplikasi digi-SIJAB versi 2.0,HAK CIPTA,Sertifikat Selesai,True,Universitas Telkom,True,Universitas Lain,False
+87,ARIO HARRY PRAYOGO,Aplikasi TelU Point TPA versi 1.3,HAK CIPTA,Sertifikat Selesai,True,Universitas Telkom,True,Universitas Lain,False
+88,"RIO GUNTUR UTOMO, MONTERICO ADRIAN, ARIO HARRY PRAYOGO",Aplikasi SOANG versi 2.0,HAK CIPTA,Sertifikat Selesai,True,Universitas Telkom,True,Universitas Lain,False
+89,HANI NURRAHMI,APLIKASI EDUKASI : SI UGA (UGAHARI),HAK CIPTA,Sertifikat Selesai,True,TK Telkom Dayeuhkolot,True,"Dapat digunakan secara masif untuk media edukasi di seluruh TK di Indonesia, karena modul dan tema ugahari sudah terimplementasikan secara efektif dan sesuai dengan umur anak-anak TK",False
+90,"AGUNG TOTO WIBOWO, MUHAMMAD IQBAL ARRASYID",AI Chatbot Assistant Home Decor Indonesia,HAK CIPTA,Sertifikat Selesai,True,PT. Home Decor,False,,False
+91,HILAL HUDAN NUHA,Aplikasi Pelatihan IoT,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+92,"FAIDHIL NUGRAH RAMADHAN AHMAD, RIO GUNTUR UTOMO, MONTERICO ADRIAN",Aplikasi User Management - Change and Forgot Password versi 3.1,HAK CIPTA,Sertifikat Selesai,True,Universitas Telkom,True,Universitas Lain,False
+93,"ARFIVE GANDHI, NUNGKI SELVIANDRO, VILLY SATRIA PRADITHA, ROSA RESKA RISKIANA",FDP Mirror ver.1,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+94,"RIO GUNTUR UTOMO, MONTERICO ADRIAN, ARIO HARRY PRAYOGO, HANI NURRAHMI",Aplikasi Merpati versi 1.1,HAK CIPTA,Sertifikat Selesai,True,Universitas Telkom,True,Universitas Lain,False
+95,"ARFIVE GANDHI, VILLY SATRIA PRADITHA, MONTERICO ADRIAN",SIABDes Maxy,HAK CIPTA,Sertifikat Selesai,True,PT. Aiesha Cahaya Gemilang,,,False
+96,VILLY SATRIA PRADITHA,Seerumah: Platform Digital Integrasi Layanan Properti,HAK CIPTA,Sertifikat Selesai,True,"Masyarakat umum (Pencari hunian/investor properti), Agen Properti Independen, dan kantor-kantor pemasaran properti.",True,Startup (Spin-off),False
+97,"NUR GHANIAVIYANTO RAMADHAN, NUNGKI SELVIANDRO, M. KHOERI HABIBULLOH FAAQIH",Website Desa Wisata Banjarsari Pengalengan,HAK CIPTA,Sertifikat Selesai,False,Pemerintah Desa Banjarsari,False,,False
+98,MONTERICO ADRIAN,Green Fertile: Sistem Monitoring Kesuburan Tanah Berbasis Aplikasi Mobile,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+99,"RIO GUNTUR UTOMO, MONTERICO ADRIAN, ARIO HARRY PRAYOGO, LAZUARDY SYAHRUL DARFIANSA",Aplikasi Merpati versi 1.2,HAK CIPTA,Sertifikat Selesai,True,Universitas Telkom,True,Universitas Lain,False
+100,"MONTERICO ADRIAN, ARIO HARRY PRAYOGO",Aplikasi Generate Tagihan,HAK CIPTA,Sertifikat Selesai,True,Universitas Telkom,True,Universitas Lain,False
+101,"RIO GUNTUR UTOMO, MONTERICO ADRIAN",Aplikasi User Management - Dasboard Versi 2.0,HAK CIPTA,Sertifikat Selesai,True,Universitas Telkom,False,,False
+102,PUTU HARRY GUNAWAN,MathSolver Pro AI-Powered Step-by-Step Mathematics Learning for Every Student,HAK CIPTA,Sertifikat Selesai,False,Mahasiswa Universitas Telkom,False,,False
+103,"HILAL HUDAN NUHA, RIO GUNTUR UTOMO, RAHMAT YASIRANDI",Aplikasi Perankingan Karya Ilmiah,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+104,"NURJAYANTI, ARIO HARRY PRAYOGO, VILLY SATRIA PRADITHA",Aplikasi SEEDS versi 3.0,HAK CIPTA,Sertifikat Selesai,True,Universitas Telkom,False,,False
+105,"FADIL AL AFGANI, SRI WIDOWATI",Sistem Donasi Yayasan Amanah Ummah,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+106,UTAMI KUSUMA DEWI,Aplikasi SI-DiA (Sistem Informasi Studi Lanjut),HAK CIPTA,Sertifikat Selesai,True,Universitas Telkom,False,,False
+107,"FADIL AL AFGANI, AAZ MUHAMMAD HAFIDZ AZIS",Sistem Booking Yoga Minimalist Studio,HAK CIPTA,Sertifikat Selesai,True,Minimalist Studio,False,,False
+108,"AAZ MUHAMMAD HAFIDZ AZIS, FAUZAN RAMADHAN",Sistem Booking pada Foto Studio berbasis PWA,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+109,WIKKY FAWWAZ AL MAKI,Aplikasi Trans Tuc-Tuc,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+110,"RIO NURTANTYANA, ATI SUCI DIAN MARTHA",FotosisAR: Media Pembelajaran Berbasis Augmented Reality pada Materi Fotosintesis untuk Siswa Sekolah Dasar,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+111,WIKKY FAWWAZ AL MAKI,Aplikasi Petualangan Angka Ajaib,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+112,WIKKY FAWWAZ AL MAKI,Aplikasi Pinjaman Kita,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+113,"FADIL AL AFGANI, MONTERICO ADRIAN, RIO NURTANTYANA",Aplikasi GMMSales,HAK CIPTA,Sertifikat Selesai,True,CV Global Mandiri Mobilindo,False,,False
+114,RANA ZAINI FATHIYANA,DIGITALISASI KATALOG PRODUK DAUR ULANG DAN PENGUATAN BRANDING MELALUI PENGEMBANGAN WEBSITE KOMUNITAS TEMAN PILAH UNTUK MENINGKATKAN AKSESIBILITAS DAN PERLUASAN PASAR PRODUK RAMAH LINGKUNGAN,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+115,ANDY MAULANA YUSUF,Aplikasi Web WAREG (Wise Asset for Real Economy & Grocery),HAK CIPTA,Sertifikat Selesai,False,,False,,False
+116,ANDY MAULANA YUSUF,Aplikasi Website LOKERIA.ID,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+117,ANDY MAULANA YUSUF,APLIKASI UMKM HEALTH PREDICTOR (UHP),HAK CIPTA,Sertifikat Selesai,False,,False,,False
+118,"FADIL AL AFGANI, SRI WIDOWATI",Website e-Dasawisma,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+119,"AAZ MUHAMMAD HAFIDZ AZIS, LIDYA NINGSIH",IMPLEMENTASI TEKNOLOGI VIRTUAL TOUR 360° BERBASIS WEB UNTUK DIGITALISASI WISATA RELIGI MASJID AGUNG KOTA SUKABUMI MENGGUNAKAN DATA CITRA,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+120,"ARI MOESRIAMI BARMAWI, FAIDHIL NUGRAH RAMADHAN AHMAD, ABDULLAH HANIFAN",APLIKASI PRESENSI MOBILE PESANTREN YAYASAN AL-BAHJAH,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+121,"PRASTI EKO YUNANTO, ARI MOESRIAMI BARMAWI, FAIDHIL NUGRAH RAMADHAN AHMAD",APLIKASI PPDB PESANTREN YAYASAN AL-BAHJAH,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+122,"SATRIA MANDALA, ENDRO ARIYANTO",Kms Digital Desa Lebakwangi V.2,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+123,"GAMMA KOSALA, ERWIN BUDI SETIAWAN, WAHYU SURYANINGRAT",ECHO WEBSITE: Platform Evaluasi Pembelajaran untuk Pendamping Siswa Tunanetra,HAK CIPTA,Sertifikat Selesai,True,Sentra Wyata Guna,False,,False
+124,"Z. K. ABDURAHMAN BAIZAL, ANDY MAULANA YUSUF, THOFIK NUGROHO",Aplikasi Front-End pangandaran-ai,HAK CIPTA,Sertifikat Selesai,True,Pemerintah Daerah Kabupaten Pangandaran,False,,False
+125,"LIDYA NINGSIH, UNTARI NOVIA WISESTY, SABRINA ADINDA SARI",Website Perancangan Virtual Tour 360 Desa Cimaragas untuk Meningkatkan Awareness Masyarakat Terhadap Potensi Wilayah Cimaragas,HAK CIPTA,Sertifikat Selesai,False,"Desa Cimaragas Kecamatan Pangatikan Garut, Wanaraja, Jawa Barat, Indonesia",False,Produk Langsung,False
+126,HANI NURRAHMI,APLIKASI EDUKASI : FINQUEST (Financial Quest),HAK CIPTA,Sertifikat Selesai,True,SMP TELKOM BANDUNG,False,,False
+127,"DIDIT ADYTIA, DENI SAEPUDIN, DEDE TARWIDI",SIARA (Sistem Arrafi Cerdas),HAK CIPTA,Sertifikat Selesai,True,SMP Ar Rafi’ Drajat Bandung,False,,False
+128,MIFTAHUL ADNAN RASYID,Pengembangan Pengelolaan Kehadiran Alumni pada Event Pesantren Berbasis Web,HAK CIPTA,Sertifikat Selesai,True,Pondok Pesantren Al-Quran Al-Falah 2 Nagreg,False,,False
+129,UTAMI KUSUMA DEWI,Sistem Manajemen Bengkel GarasiBMW (SMB-GarasiBMW),HAK CIPTA,Sertifikat Selesai,False,,False,,False
+130,UTAMI KUSUMA DEWI,Sistem IDAMAN TSL Jawa Barat,HAK CIPTA,Sertifikat Selesai,True,Balai Besar Konservasi Sumber Daya Alam Jawa Barat (BBKSDA JAWA BARAT),False,,False
+131,UTAMI KUSUMA DEWI,LogiLearn,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+132,UTAMI KUSUMA DEWI,ReTide,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+133,LIDYA NINGSIH,Pengembangan SIstem Digital Storytelling Berbasis Komunitas sebagai Teknologi Tepat Guna untuk Penguatan Branding Kriya Gerabah Sitiwinangun,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+134,LIDYA NINGSIH,website Virtual Tour 360 untuk Digital Teknik Kriya Desa Sitiwinangun,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+135,DYTHA ANANDA WIDHIARSO,SENTRY : Secure Network Threat Response System,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+136,BAGAS WIBOWO,Squad Hub Website FIFA Time Picker,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+137,RIMBA WHIDIANA CIPTASARI,GEOCIMA (Geospasial Cimaragas Mapping Application),HAK CIPTA,Sertifikat Selesai,False,,False,,False
+138,"AAZ MUHAMMAD HAFIDZ AZIS, MAHMUD DWI SULISTIYO, FAUZAN FIRDAUS",Aplikasi LaundryKu,HAK CIPTA,Sertifikat Selesai,True,Laundry Putri,False,,False
+139,"BAGAS WIBOWO, ANDY MAULANA YUSUF, THOFIK NUGROHO, GHIFARI RAMADHIKA PERMANA",SiKGN (Sistem Knowledge Graph Novel),HAK CIPTA,Sertifikat Selesai,False,,False,,False
+140,"FADIL AL AFGANI, MIRA KANIA SABARIAH, KEMAS RAHMAT SALEH WIHARJA",ASPIRA: Aplikasi Aspirasi dan Pengaduan Mahasiswa,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+141,BINTANG VIESHE MONE,"MindCare Mobile : Klasifikasi Kesehatan Mental Berbasis AI: Stress, Depresi, dan Kecemasan",HAK CIPTA,Sertifikat Selesai,False,,False,,False
+142,BINTANG VIESHE MONE,SalsaTrack: Sistem Tracking dan Prediksi Keterlambatan Pesanan Berbasis Web,HAK CIPTA,Sertifikat Selesai,False,Warung Salsabila,False,,False
+143,BINTANG VIESHE MONE,SISTEM INFORMASI MANAJEMEN RANTAI PASOK DAN MARKETPLACE TEKSTIL BERBASIS WEB UNTUK OPTIMALISASI OPERASIONAL MITRA ABADI,HAK CIPTA,Sertifikat Selesai,False,,False,,False
+144,BINTANG VIESHE MONE,Website TIMGRAVID V.2,HAK CIPTA,Sertifikat Selesai,True,Yayasan Sajarah Timbanganten Bandung,False,,False
+145,"NUNGKI SELVIANDRO, GIA SEPTIANA WULANDARI, ADIWIJAYA, NUR GHANIAVIYANTO RAMADHAN, FAUZAN FIRDAUS, DONNI RICHASDY",Transport Fraud Detection in Smart Farming: A Hybrid Statistical Method Based on GPS Data Analysi,HAK CIPTA,Sertifikat Selesai,False,,,,False
+146,"NIKEN DWI WAHYU CAHYANI, RIO GUNTUR UTOMO",aplikasi alat bantu pengenalan objek untuk orang buta,HAK CIPTA,Sertifikat Selesai,,,,,False
+147,ACHMAD LUKMAN,JPEG Signature-Based Camera Verifier,HAK CIPTA,Sertifikat Selesai,False,,False,,False
