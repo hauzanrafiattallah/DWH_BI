@@ -1,0 +1,11 @@
+﻿id_jenis_kegiatan,kode_jenis,nama_jenis
+1,PKM-RE,PKM Riset Eksakta
+2,PKM-RSH,PKM Riset Sosial Humaniora
+3,PKM-K,PKM Kewirausahaan
+4,PKM-PM,PKM Pengabdian Masyarakat
+5,PKM-PI,PKM Penerapan Iptek
+6,PKM-KC,PKM Karsa Cipta
+7,RISET-INT,Penelitian Internal (DRTPM)
+8,RISET-EKS,Penelitian Eksternal / Hibah
+9,INKUBASI,Program Inkubasi Startup
+10,KOMPETISI,Kompetisi Inovasi

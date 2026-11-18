@@ -1,0 +1,7 @@
+﻿id_status_implementasi,kode_status,nama_status,deskripsi
+1,SELESAI,Sertifikat Selesai,KI telah mendapatkan sertifikat resmi dari DJKI
+2,PENGAJUAN,Pengajuan DJKI,KI sedang dalam proses pengajuan ke DJKI
+3,APL_Y,Sudah Diaplikasikan,KI telah diimplementasikan pada mitra/industri
+4,APL_N,Belum Diaplikasikan,KI belum diimplementasikan
+5,KOM_Y,Sudah Dikomersialisasikan,KI telah menghasilkan nilai ekonomi
+6,KOM_N,Belum Dikomersialisasikan,KI belum menghasilkan nilai ekonomi

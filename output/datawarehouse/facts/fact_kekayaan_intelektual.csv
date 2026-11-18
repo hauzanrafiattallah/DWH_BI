@@ -1,0 +1,148 @@
+﻿id_fakta_ki,id_waktu_pendaftaran,id_waktu_implementasi,id_jenis_ki,id_status_implementasi,id_inovasi,id_mitra,jumlah_ki,indikator_terimplementasi,selang_waktu_impl_hari,flag_aplikasi_tanpa_objek
+1,1,1.0,2,1,1,,1,Belum Terimplementasi,,False
+2,1,1.0,2,1,2,,1,Belum Terimplementasi,,False
+3,1,1.0,2,1,3,,1,Belum Terimplementasi,,False
+4,1,1.0,3,1,4,,1,Dikomersialisasikan (belum diaplikasikan),,False
+5,1,1.0,3,1,5,,1,Dikomersialisasikan (belum diaplikasikan),,False
+6,1,1.0,3,1,6,,1,Belum Terimplementasi,,False
+7,1,1.0,1,1,7,,1,Belum Terimplementasi,,False
+8,1,1.0,1,1,8,,1,Belum Terimplementasi,,False
+9,1,1.0,1,1,9,14.0,1,Implementasi Penuh,,False
+10,1,1.0,3,2,10,,1,Belum Terimplementasi,,False
+11,1,1.0,3,1,11,,1,Diaplikasikan (belum komersialisasi),,True
+12,1,1.0,3,1,12,,1,Belum Terimplementasi,,False
+13,1,1.0,1,1,13,,1,Diaplikasikan (belum komersialisasi),,True
+14,1,1.0,1,1,14,6.0,1,Implementasi Penuh,,False
+15,1,1.0,2,2,15,,1,Belum Terimplementasi,,False
+16,1,1.0,1,1,16,,1,Belum Terimplementasi,,False
+17,1,1.0,1,1,17,,1,Belum Terimplementasi,,False
+18,1,1.0,1,1,18,,1,Belum Terimplementasi,,False
+19,1,1.0,1,1,19,,1,Belum Terimplementasi,,False
+20,1,1.0,1,1,20,,1,Belum Terimplementasi,,False
+21,1,1.0,1,1,21,,1,Diaplikasikan (belum komersialisasi),,True
+22,1,1.0,1,1,22,,1,Diaplikasikan (belum komersialisasi),,True
+23,1,1.0,1,1,23,,1,Belum Terimplementasi,,False
+24,1,1.0,1,1,24,,1,Belum Terimplementasi,,False
+25,1,1.0,2,2,25,,1,Belum Terimplementasi,,False
+26,1,1.0,4,1,26,,1,Belum Terimplementasi,,False
+27,1,1.0,1,1,27,,1,Belum Terimplementasi,,False
+28,1,1.0,2,2,28,,1,Belum Terimplementasi,,False
+29,1,1.0,1,1,29,,1,Belum Terimplementasi,,False
+30,1,,1,1,30,,1,Belum Terimplementasi,,False
+31,1,1.0,1,1,31,,1,Dikomersialisasikan (belum diaplikasikan),,False
+32,1,1.0,1,1,32,,1,Dikomersialisasikan (belum diaplikasikan),,False
+33,1,,1,1,33,3.0,1,Belum Terimplementasi,,False
+34,1,1.0,1,1,34,24.0,1,Diaplikasikan (belum komersialisasi),,False
+35,1,,1,1,35,,1,Belum Terimplementasi,,False
+36,1,1.0,1,1,36,,1,Dikomersialisasikan (belum diaplikasikan),,False
+37,1,1.0,1,1,37,19.0,1,Implementasi Penuh,,False
+38,1,,1,1,38,,1,Belum Terimplementasi,,False
+39,1,1.0,3,2,39,5.0,1,Dikomersialisasikan (belum diaplikasikan),,False
+40,1,,1,1,40,,1,Belum Terimplementasi,,False
+41,1,,1,1,41,,1,Belum Terimplementasi,,False
+42,1,1.0,1,1,42,17.0,1,Diaplikasikan (belum komersialisasi),,False
+43,1,1.0,1,1,43,,1,Dikomersialisasikan (belum diaplikasikan),,False
+44,1,1.0,1,1,44,,1,Belum Terimplementasi,,False
+45,1,1.0,1,1,45,11.0,1,Implementasi Penuh,,False
+46,1,,1,1,46,,1,Belum Terimplementasi,,False
+47,1,,1,1,47,,1,Belum Terimplementasi,,False
+48,1,,1,1,48,,1,Belum Terimplementasi,,False
+49,1,,1,1,49,,1,Belum Terimplementasi,,False
+50,1,1.0,1,1,50,,1,Belum Terimplementasi,,False
+51,1,,1,1,51,,1,Belum Terimplementasi,,False
+52,1,,1,1,52,,1,Belum Terimplementasi,,False
+53,1,1.0,1,1,53,,1,Dikomersialisasikan (belum diaplikasikan),,False
+54,1,1.0,1,1,54,,1,Dikomersialisasikan (belum diaplikasikan),,False
+55,1,1.0,1,1,55,28.0,1,Diaplikasikan (belum komersialisasi),,False
+56,1,,1,1,56,,1,Belum Terimplementasi,,False
+57,1,,1,1,57,,1,Belum Terimplementasi,,False
+58,1,1.0,1,1,58,25.0,1,Implementasi Penuh,,False
+59,1,1.0,1,1,59,25.0,1,Implementasi Penuh,,False
+60,1,1.0,1,1,60,25.0,1,Implementasi Penuh,,False
+61,1,1.0,1,1,61,25.0,1,Implementasi Penuh,,False
+62,1,,1,1,62,,1,Belum Terimplementasi,,False
+63,1,1.0,1,1,63,25.0,1,Implementasi Penuh,,False
+64,1,1.0,1,1,64,25.0,1,Implementasi Penuh,,False
+65,1,1.0,1,1,65,25.0,1,Implementasi Penuh,,False
+66,1,1.0,1,1,66,25.0,1,Implementasi Penuh,,False
+67,1,1.0,1,1,67,25.0,1,Implementasi Penuh,,False
+68,1,,1,1,68,,1,Belum Terimplementasi,,False
+69,1,,1,1,69,,1,Belum Terimplementasi,,False
+70,1,1.0,1,1,70,25.0,1,Implementasi Penuh,,False
+71,1,1.0,1,1,71,25.0,1,Implementasi Penuh,,False
+72,1,1.0,1,1,72,25.0,1,Implementasi Penuh,,False
+73,1,1.0,1,1,73,,1,Dikomersialisasikan (belum diaplikasikan),,False
+74,1,1.0,1,1,74,,1,Dikomersialisasikan (belum diaplikasikan),,False
+75,1,1.0,1,1,75,,1,Dikomersialisasikan (belum diaplikasikan),,False
+76,1,,1,1,76,,1,Belum Terimplementasi,,False
+77,1,,1,1,77,,1,Belum Terimplementasi,,False
+78,1,,1,1,78,,1,Belum Terimplementasi,,False
+79,1,,1,1,79,,1,Belum Terimplementasi,,False
+80,1,,1,1,80,,1,Belum Terimplementasi,,False
+81,1,,1,1,81,,1,Belum Terimplementasi,,False
+82,1,,1,1,82,,1,Belum Terimplementasi,,False
+83,1,,1,1,83,,1,Belum Terimplementasi,,False
+84,1,1.0,4,2,84,25.0,1,Diaplikasikan (belum komersialisasi),,False
+85,1,1.0,1,1,85,25.0,1,Implementasi Penuh,,False
+86,1,1.0,1,1,86,25.0,1,Implementasi Penuh,,False
+87,1,1.0,1,1,87,25.0,1,Implementasi Penuh,,False
+88,1,1.0,1,1,88,25.0,1,Implementasi Penuh,,False
+89,1,1.0,1,1,89,23.0,1,Implementasi Penuh,,False
+90,1,1.0,1,1,90,13.0,1,Diaplikasikan (belum komersialisasi),,False
+91,1,,1,1,91,,1,Belum Terimplementasi,,False
+92,1,1.0,1,1,92,25.0,1,Implementasi Penuh,,False
+93,1,,1,1,93,,1,Belum Terimplementasi,,False
+94,1,1.0,1,1,94,25.0,1,Implementasi Penuh,,False
+95,1,1.0,1,1,95,12.0,1,Diaplikasikan (belum komersialisasi),,False
+96,1,1.0,1,1,96,9.0,1,Implementasi Penuh,,False
+97,1,,1,1,97,16.0,1,Belum Terimplementasi,,False
+98,1,,1,1,98,,1,Belum Terimplementasi,,False
+99,1,1.0,1,1,99,25.0,1,Implementasi Penuh,,False
+100,1,1.0,1,1,100,25.0,1,Implementasi Penuh,,False
+101,1,1.0,1,1,101,25.0,1,Diaplikasikan (belum komersialisasi),,False
+102,1,,1,1,102,8.0,1,Belum Terimplementasi,,False
+103,1,,1,1,103,,1,Belum Terimplementasi,,False
+104,1,1.0,1,1,104,25.0,1,Diaplikasikan (belum komersialisasi),,False
+105,1,,1,1,105,,1,Belum Terimplementasi,,False
+106,1,1.0,1,1,106,25.0,1,Diaplikasikan (belum komersialisasi),,False
+107,1,1.0,1,1,107,10.0,1,Diaplikasikan (belum komersialisasi),,False
+108,1,,1,1,108,,1,Belum Terimplementasi,,False
+109,1,,1,1,109,,1,Belum Terimplementasi,,False
+110,1,,1,1,110,,1,Belum Terimplementasi,,False
+111,1,,1,1,111,,1,Belum Terimplementasi,,False
+112,1,,1,1,112,,1,Belum Terimplementasi,,False
+113,1,1.0,1,1,113,2.0,1,Diaplikasikan (belum komersialisasi),,False
+114,1,,1,1,114,,1,Belum Terimplementasi,,False
+115,1,,1,1,115,,1,Belum Terimplementasi,,False
+116,1,,1,1,116,,1,Belum Terimplementasi,,False
+117,1,,1,1,117,,1,Belum Terimplementasi,,False
+118,1,,1,1,118,,1,Belum Terimplementasi,,False
+119,1,,1,1,119,,1,Belum Terimplementasi,,False
+120,1,,1,1,120,,1,Belum Terimplementasi,,False
+121,1,,1,1,121,,1,Belum Terimplementasi,,False
+122,1,,1,1,122,,1,Belum Terimplementasi,,False
+123,1,1.0,1,1,123,22.0,1,Diaplikasikan (belum komersialisasi),,False
+124,1,1.0,1,1,124,15.0,1,Diaplikasikan (belum komersialisasi),,False
+125,1,,1,1,125,4.0,1,Belum Terimplementasi,,False
+126,1,1.0,1,1,126,21.0,1,Diaplikasikan (belum komersialisasi),,False
+127,1,1.0,1,1,127,20.0,1,Diaplikasikan (belum komersialisasi),,False
+128,1,1.0,1,1,128,18.0,1,Diaplikasikan (belum komersialisasi),,False
+129,1,,1,1,129,,1,Belum Terimplementasi,,False
+130,1,1.0,1,1,130,1.0,1,Diaplikasikan (belum komersialisasi),,False
+131,1,,1,1,131,,1,Belum Terimplementasi,,False
+132,1,,1,1,132,,1,Belum Terimplementasi,,False
+133,1,,1,1,133,,1,Belum Terimplementasi,,False
+134,1,,1,1,134,,1,Belum Terimplementasi,,False
+135,1,,1,1,135,,1,Belum Terimplementasi,,False
+136,1,,1,1,136,,1,Belum Terimplementasi,,False
+137,1,,1,1,137,,1,Belum Terimplementasi,,False
+138,1,1.0,1,1,138,7.0,1,Diaplikasikan (belum komersialisasi),,False
+139,1,,1,1,139,,1,Belum Terimplementasi,,False
+140,1,,1,1,140,,1,Belum Terimplementasi,,False
+141,1,,1,1,141,,1,Belum Terimplementasi,,False
+142,1,,1,1,142,26.0,1,Belum Terimplementasi,,False
+143,1,,1,1,143,,1,Belum Terimplementasi,,False
+144,1,1.0,1,1,144,27.0,1,Diaplikasikan (belum komersialisasi),,False
+145,1,1.0,1,1,145,,1,Belum Terimplementasi,,False
+146,1,1.0,1,1,146,,1,Belum Terimplementasi,,False
+147,1,,1,1,147,,1,Belum Terimplementasi,,False

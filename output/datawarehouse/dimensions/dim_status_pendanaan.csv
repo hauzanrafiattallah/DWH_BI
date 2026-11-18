@@ -1,0 +1,7 @@
+﻿id_status_pendanaan,kode_status,nama_status,deskripsi
+1,INKUBASI_AKTIF,Aktif Inkubasi,Startup sedang aktif mengikuti program inkubasi FIF
+2,INKUBASI_SELESAI,Selesai Inkubasi,Startup telah menyelesaikan program inkubasi
+3,MANDIRI,Mandiri (Pre-Batch),"Startup terdaftar sebelum sistem batch, status mandiri"
+4,BATCH_22,Batch 22 (2025),Startup dalam gelombang Batch 22 tahun 2025
+5,BATCH_23,Batch 23 (2026),Startup dalam gelombang Batch 23 tahun 2026
+6,BATCH_24,Batch 24 (2026),Startup dalam gelombang Batch 24 tahun 2026
